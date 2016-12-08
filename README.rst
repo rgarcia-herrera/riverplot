@@ -1,6 +1,8 @@
-## RiverPlot library
+RiverPlot library
+------------------
 
-### River-like timelines
+River-like timelines
+==============================
 
 Checkout the API in [pd_river.py](pd_river.py). It's mostly
 done, but there's room for improvement: labels, styles.
