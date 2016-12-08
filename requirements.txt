@@ -1,0 +1,4 @@
+svgwrite
+pandas
+networkx
+pytest
